@@ -1,6 +1,6 @@
 {
   "name": "rll-censorify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Censors words out of text",
   "main": "censortext.js",
   "scripts": {
