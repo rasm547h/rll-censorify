@@ -1,0 +1,23 @@
+{
+  "name": "rll-censorify",
+  "version": "1.0.0",
+  "description": "Censors words out of text",
+  "main": "censortext.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasm547h/rll-censorify.git"
+  },
+  "keywords": [
+    "Censor",
+    "text-manipulation"
+  ],
+  "author": "Rasmus Larsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasm547h/rll-censorify/issues"
+  },
+  "homepage": "https://github.com/rasm547h/rll-censorify#readme"
+}
